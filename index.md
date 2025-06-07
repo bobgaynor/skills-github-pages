@@ -1,5 +1,3 @@
 ---
 title: BloG
 ---
-
-Hello, world!
